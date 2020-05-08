@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* since 2019: Adjunct Teaching Professor (Privatdozent) 
+* since 2019: Adjunct Teaching Professor (Privatdozent)  
   Department of Aerospace and Geodesy, Technical University of Munich
 
-* since 2015: Senior Researcher & Deputy Head
+* since 2015: Senior Researcher & Deputy Head  
   Signal Processing in Earth Observation, Technical University of Munich
   
-* 2014 - 2015: Senior Researcher & Interim Manager
+* 2014 - 2015: Senior Researcher & Interim Manager  
   Chair of Remote Sensing Technology, Technical University of Munich
   
-* 2009 - 2014: Researcher & PhD Candidate
+* 2009 - 2014: Researcher & PhD Candidate  
   Photogrammetry & Remote Sensing, Technical University of Munich
