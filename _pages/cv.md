@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* __Dr.-Ing. habil.__ (Habilitation / Tenure qualification)  
-  in Data Fusion, Technical University of Munich, 2018 
-* __Dr.-Ing.__ (PhD)  
-  in Remote Sensing, Technical University of Munich, 2014
-* __Dipl.-Ing.__ (Master of Science)  
-  in Geodesy and Geoinformation, Technical University of Munich, 2009
+* 2018: __Dr.-Ing. habil.__ (Habilitation / Tenure qualification)  
+  in Data Fusion, Technical University of Munich 
+* 2014: __Dr.-Ing.__ (PhD)  
+  in Remote Sensing, Technical University of Munich
+* 2009: __Dipl.-Ing.__ (Master of Science)  
+  in Geodesy and Geoinformation, Technical University of Munich
 
 Work experience
 ======
