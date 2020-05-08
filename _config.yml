@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Michael Schmitt"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Dr. Michael Schmitt"
 description              : &description "Senior Researcher & Adjunct Teaching Professor"
