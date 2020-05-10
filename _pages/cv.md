@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * 2018: __Dr.-Ing. habil.__ (Habilitation / Tenure qualification)  
   in Data Fusion, Technical University of Munich 
 * 2014: __Dr.-Ing.__ (PhD)  
@@ -18,8 +17,7 @@ Education
 * 2009: __Dipl.-Ing.__ (Master of Science)  
   in Geodesy and Geoinformation, Technical University of Munich
 
-Work experience
-======
+## Work experience
 * since 2019: __Adjunct Teaching Professor__ (Privatdozent)  
   Department of Aerospace and Geodesy, Technical University of Munich
 
