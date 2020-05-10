@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Michael Schmitt"
-excerpt: "Michael Schmitt"
 author_profile: true
 redirect_from: 
   - /about/
