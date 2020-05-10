@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[I'm an inline-style link](https://www.google.com)
-
 I am a senior researcher at [Signal Processing in Earth Observation (SiPEO)](https://www.sipeo.lrg.tum.de/), a joint venture of the [Technical University of Munich (TUM)](https://www.tum.de/), and the [German Aerospace Center (DLR)](https://www.dlr.de). 
 Besides, I serve as the deputy of the lab head, Prof. Xiaoxiang Zhu and was appointed as an Adjunct Teaching Professor at the [Department of Aerospace and Geodesy](https://www.lrg.tum.de) of TUM in March 2019.
 
