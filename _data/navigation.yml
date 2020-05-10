@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
   - title: "Curriculum Vitae"
     url: /cv/
