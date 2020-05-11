@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+### 21.03.2020
+I was appointed Chair of the Working Group "Benchmarking" (BEN) of the IEEE-GRSS Image Analysis and Data Fusion Technical Comittee. Together with [Seyed Ali Ahmadi](https://www.researchgate.net/profile/Sali_Ahmadi) from K. N. Toosi University of Technology in Tehran, Iran, I will contribute to the activities of the TC. If you want to contribute to benchmarks and datasets, get in touch!  
+
 ### 20.03.2020
 The IEEE-GRSS Data Fusion Contest 2020 on weakly supervised land cover mapping is over and turned out to be a great success! Far more than 100 international teams have dared to tackle the difficult challenge, and about 40 teams have entered the final phase. Eventually, the winning teams were able to significantly outperform the baseline (i.e. an average accuracy of about 40%): In Track 1 (land cover classification with only low-resolution labels), a consortium from Georgia Tech, Yale, USC and Microsoft Research achieved a stunning 57.49%, while in Track 2 (land cover classification with low-resolution and high-resolution labels) a team from Ohio State University managed to score 61.42%. Among the other top-performing teams, we had participants from Wuhan University, the German Aerospace Center, and Xidian University, showcasing the high international impact of the contest. More info on the contest results can be found [here](http://www.grss-ieee.org/community/technical-committees/data-fusion/2020-ieee-grss-data-fusion-contest-results/). 
 
