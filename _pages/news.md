@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+### 19.03.2020
+Today, our paper "A framework for large-scale mapping of human settlement extent from Sentinel-2 images via fully convolutional neural networks" was published by ISPRS Journal of Photogrammetry and Remote Sensing. It proposes a straightforward, simple, yet effective fully convolutional network-based architecture, called Sen2HSE, for the fully automatic mapping of the human settlement extent. The framework uses existing geodata as training labels and can be applied to extended geographic regions of interest. The paper can be found here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620300344)
+
 ### 11.02.2020
 Today, our paper "Mapping the land cover of Africa at 10 m resolution from multi-source remote sensing data with Google Earth Engine" was published by MDPI Remote Sensing. We have used an land cover mapping scheme based on a simplified version of the local climate zone scheme to map the entire African continent in the cloud. The paper can be found here: [Paper](https://www.mdpi.com/2072-4292/12/4/602)
+
+### 07.01.2020
+Today, our paper "Fusing Multi-seasonal Sentinel-2 Imagery for Urban Land Cover Classification with Residual Convolutional Neural Networks" was published online by the IEEE Geoscience and Remote Sensing Letters. It investigates different approaches for the fusion of cloud-free Sentinel-2 images acquired in different seasons and how this fusion can help to improve the final classification accuracy for local climate zone mapping. The paper can be found here: [Paper](https://ieeexplore.ieee.org/document/8951229) 
 
 ### 13.12.2019
 Today, the IEEE-GRSS Data Fusion Contest 2020 has officially started. Its goal is to foster the development of machine learning methods for global land cover mapping from weak supervision and noisy samples. And the best thing is that it uses SEN12MS as training dataset! More info can be found on the [web page of the IEEE-GRSS](http://www.grss-ieee.org/community/technical-committees/data-fusion/), or the [IEEE DataPort](https://ieee-dataport.org/competitions/2020-ieee-grss-data-fusion-contest), which hosts validation and test data. The corresponding article in IEEE Geoscience and Remote Sensing Magazine can be found here: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9028003) 
