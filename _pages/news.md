@@ -22,7 +22,7 @@ The Thematic Session "Learning to Predict Land Cover from Bad Examples" proposed
 Our latest paper "Matching of TerraSAR-X Derived Ground Control Points to Optical Image Patches Using Deep Learning" was finally published by ISPRS Journal of Photogrammety and Remote Sensing. The work is the result of a collaboration with Airbus Defense and Space and describes a deep learnig approach for SAR-optical image matching. The papre can be found here: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302217)
 
 ### 20.09.2019
-SEN12MS is now officially out! While our dataset, which is currently the largest available curated dataset for the development of machine learning and data fusion techniques in the remote sensing context, has already been out in the form of a pre-print since June 2019, today it was finally officially released through my oral presentation at the Munich Remote Sensing Symposium (MRSS). For more info, please see the following resources:
+SEN12MS is now officially out! While our dataset, which is currently the largest available curated dataset for the development of machine learning and data fusion techniques in the remote sensing context, has already been out in the form of a pre-print since June 2019, today it was finally officially released through my oral presentation at the Munich Remote Sensing Symposium (MRSS). For more info, please see the following resources:  
 [Pre-print](https://arxiv.org/abs/1906.07789)  
 [Official paper](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2-W7/153/2019/)  
 [Dataset](https://mediatum.ub.tum.de/1474000)  
