@@ -1,6 +1,6 @@
 ---
-title: "SAROPT"
-excerpt: "Stereogrammetric Fusion of Optical and SAR Data for the Reconstruction of Urban Scenes (2017-2020)<br/><img src='/images/PSiam.png'>"
+title: "SAROPT (2017-2020)"
+excerpt: "Stereogrammetric Fusion of Optical and SAR Data for the Reconstruction of Urban Scenes<br/><img src='/images/PSiam.png'>"
 collection: portfolio
 ---
 
