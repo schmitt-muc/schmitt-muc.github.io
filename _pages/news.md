@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+### 30.05.2020 
+From today on, our paper "Multi-level Feature Fusion-based CNN for Local Climate Zone Classification from Sentinel-2 Images: Benchmark Results on the So2Sat LCZ42 Dataset" is available online via the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. The contributions of this paper are several: First of all, we propose to standardize the experimental setup of local climate zone (LCZ) classification approaches using the So2Sat LCZ42 dataset with pre-defined data splits to ensure actual comparability of methods. Besides, we propose a simple and light-weith model, Sen2LCZ-Net, for LCZ mapping, which is shown to achieve state-of-the-art results while requiring less computational effort than standard network architectures. The paper can be accessed here: [Paper](https://ieeexplore.ieee.org/document/9103196)
+
+### 28.05.2020
+I am happy to announce that the data used during IEEE-GRSS DFC2020 is now publicly available - with disclosed locations, geotiff information and high-resolution land cover annotations!
+You can get the data via standard download or AWS S3 at the [IEEE Dataport page of the contest](https://ieee-dataport.org/competitions/2020-ieee-grss-data-fusion-contest).
+Direct link (which will start the download of a 10 GB zip file): [Download](https://ieee-dataport.s3.amazonaws.com/competition/17534/DFC_Public_Dataset.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ%2F20200602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200602T071920Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=3600&X-Amz-Signature=6c9f5fc8a28bee60c1148667a8de762fc2c0a6677403cb0f5fe044355aa1d46c)
+
+### 18.05.2020
+Freshly available online in an open-access manner: My new article "Potential of Large-Scale Inland Water Body Mapping from Sentinel-1/2 Data on the Example of Bavaria’s Lakes and Rivers", published in PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science. Nothing fancy, but a small study, how to use Google Earth Engine and Sentinel-1/Sentinel-2 data to map inland water bodies (i.e. lakes and rivers) fully automatically for a whole state or country: [Paper](https://link.springer.com/article/10.1007/s41064-020-00111-2?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)
+
+### 27.04.2020
+Today, it became official: The Future Lab on Artificial Intelligence in Earth Observation (short: AI4EO) was approved by the German Federal Ministry of Education and Research and will receive short of 5 million Euros of funding over the course of the next 3 years. Bringing together scientists from numerous countries and aiming at the creation of a highly visible network of research institutions and industry, the Lab aims at bringing the fruitful combination of AI and Earth Observation a big step forward. [Press release](https://www.bmbf.de/de/karliczek-mit-internationalen-zukunftslaboren-ki-standort-deutschland-staerken-11498.html?pk_campaign=RSS&pk_kwd=Pressemeldung) (in German only, unfortunately). 
+
 ### 21.03.2020
 I was appointed Chair of the Working Group "Benchmarking" (BEN) of the IEEE-GRSS Image Analysis and Data Fusion Technical Comittee. Together with [Seyed Ali Ahmadi](https://www.researchgate.net/profile/Sali_Ahmadi) from K. N. Toosi University of Technology in Tehran, Iran, I will contribute to the activities of the TC. If you want to contribute to benchmarks and datasets, get in touch!  
 
