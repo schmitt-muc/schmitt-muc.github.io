@@ -4,7 +4,7 @@ excerpt: "Deep Learning for the Enrichment of Sentinel Images (2019-2022)<br/><i
 collection: portfolio
 ---
 
-__Funding Body:__ German Federal Ministry for Economic Affairs and Energy 
+__Funding Body:__ German Federal Ministry for Economic Affairs and Energy (BMWi)  
 __Duration:__ 2019 to 2022  
 __Budget:__ 249.000 Euro  
 __Role:__ Co-PI and main author of proposal
