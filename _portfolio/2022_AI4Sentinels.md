@@ -1,6 +1,6 @@
 ---
 title: "AI4Sentinels"
-excerpt: "Deep Learning for the Enrichment of Sentinel Images (2019-2022)<br/><img src='/images/DSen2CR.png' height="300">"
+excerpt: "Deep Learning for the Enrichment of Sentinel Images (2019-2022)<br/><img src='/images/DSen2CR.png' height='300'>"
 collection: portfolio
 ---
 
