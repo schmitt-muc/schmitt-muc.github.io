@@ -22,7 +22,7 @@ redirect_from:
 * 2009 - 2014: __Researcher__ & __PhD Candidate__  
   Photogrammetry & Remote Sensing, Technical University of Munich
   
-  ## Education
+## Education
 * 2018: __Dr.-Ing. habil.__ (Habilitation / Tenure qualification)  
   in Data Fusion, Technical University of Munich 
 * 2014: __Dr.-Ing.__ (PhD)  
