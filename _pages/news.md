@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+### 02.07.2020
+I am extremely happy to finally announce the publication of our pioneering paper on cloud-removal from Sentinel-2 imagery, called "Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion". Very unfortunately, the journal publication process consumed quite some time, so that other groups have published similar approaches in the meantime. The uniqueness of our work is that we have trained and tested on globally sampled data with spatially completely disjunct training and test sets. So, if you're interested in a study paving the way for a generically applicable method for the declouding of Sentinel-2 imagery, check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
+
 ### 30.05.2020 
 From today on, our paper "Multi-level Feature Fusion-based CNN for Local Climate Zone Classification from Sentinel-2 Images: Benchmark Results on the So2Sat LCZ42 Dataset" is available online via the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. The contributions of this paper are several: First of all, we propose to standardize the experimental setup of local climate zone (LCZ) classification approaches using the So2Sat LCZ42 dataset with pre-defined data splits to ensure actual comparability of methods. Besides, we propose a simple and light-weith model, Sen2LCZ-Net, for LCZ mapping, which is shown to achieve state-of-the-art results while requiring less computational effort than standard network architectures. The paper can be accessed here: [Paper](https://ieeexplore.ieee.org/document/9103196)
 
