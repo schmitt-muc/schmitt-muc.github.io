@@ -1,5 +1,5 @@
 ---
-title: "Remote Sensing 2"
+title: "Remote Sensing 2 (FE2)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/02-RemoteSensing2
