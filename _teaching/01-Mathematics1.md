@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/01-Mathematics1
 venue: "Munich University of Applied Sciences, Department of Geoinformatics"
-date: 2020
+date: 2020-01-01
 location: "Munich, Germany"
 ---
 
