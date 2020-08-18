@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
+* since 2020: __W2 Professor for Applied Geodesy and Remote Sensing__ 
+  Department of Geoinformatics, Munich University of Applied Sciences
+
 * since 2019: __Adjunct Teaching Professor__ (Privatdozent)  
   Department of Aerospace and Geodesy, Technical University of Munich
 
-* since 2015: __Senior Researcher__ & __Deputy Head__  
+* 2019: __Interim Manager__
+  Future Lab for Artificial Intelligence in Earth Observation
+
+* 2015 - 2020: __Senior Researcher__ & __Deputy Head__  
   Signal Processing in Earth Observation, Technical University of Munich (in collaboration with the German Aerospace Center DLR)
   
 * 2014 - 2015: __Senior Researcher__ & __Interim Manager__  
