@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* since 2020: __W2 Professor for Applied Geodesy and Remote Sensing__ 
+* since 2020: __W2 Professor for Applied Geodesy and Remote Sensing__   
   Department of Geoinformatics, Munich University of Applied Sciences
 
 * since 2019: __Adjunct Teaching Professor__ (Privatdozent)  
