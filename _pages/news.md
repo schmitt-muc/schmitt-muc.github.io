@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+### 17.08.2020
+SEN12MS has won the Open Data Impact Award by the Stifterverband, a German industry-sponsored organisation that seeks to address challenges in higher education, science and research! I am deeply honored and highly appreciate that an Earth observation dataset made the race. The prize money will be used to further work on EO datasets with a focus on Sentinel data, deep learning, and data fusion. 
+
+### 27.07.2020
+Today, Chunping Qiu defended her PhD thesis on „Deep Learning for Multi-Scale Mapping of Urban Land Cover from Space“ - and has her daily supervisor, I was part of the examination comittee. Chunping really did an awesome job, has published numerous papers and contributed to a big leap forward in urban mapping with modern remote sensing data and deep learning-based anylsis techniques. Congratulations, Dr. Qiu!
+
 ### 02.07.2020
 I am extremely happy to finally announce the publication of our pioneering paper on cloud-removal from Sentinel-2 imagery, called "Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion". Very unfortunately, the journal publication process consumed quite some time, so that other groups have published similar approaches in the meantime. The uniqueness of our work is that we have trained and tested on globally sampled data with spatially completely disjunct training and test sets. So, if you're interested in a study paving the way for a generically applicable method for the declouding of Sentinel-2 imagery, check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
 
