@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Michael Schmitt"
+title                    : "Prof. Dr. Michael Schmitt"
 title_separator          : "-"
-name                     : &name "Dr. Michael Schmitt"
-description              : &description "Senior Researcher & Adjunct Teaching Professor"
+name                     : &name "Prof. Dr. Michael Schmitt"
+description              : &description "Professor for Applied Geodesy and Remote Sensing"
 url                      : https://schmitt-muc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "schmitt-muc.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Michael Schmitt"
   avatar           : "Bild_Schmitt_ Michael_AH_287342_sub.png"
-  bio              : "Senior Researcher & Adjunct Teaching Professor at Technical University of Munich"
+  bio              : "Professor for Applied Geodesy and Remote Sensing"
   location         : "Munich, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CVnD4h4AAAAJ&hl=en"
-  email            : "m.schmitt@tum.de"
+  email            : "michael.schmitt@hm.edu"
   researchgate     :  "https://www.researchgate.net/profile/Michael_Schmitt14"
   uri              :
   bitbucket        :
