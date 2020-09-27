@@ -27,7 +27,7 @@ import re
 publist = {
     "proceeding": {
         "file" : "Papers.bib",
-        "venuekey": "Journal",
+        "venuekey": "Title",
       #  "venue-pretext": "In the proceedings of ",
         "venue-pretext": "",
         "collection" : {"name":"publications",
