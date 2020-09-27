@@ -42,9 +42,10 @@ with open('../_pages/publications_list.md', 'wb') as md_file:
         with open('publications/{0}'.format(bib_file), 'wb') as bib:
             bib.write(writer.write(db).encode('UTF-8'))
 
-        md_file.write(u"- {0} *{1}* ({2}){3}{4} {5} {6}\n".format(bib_item['author'],bib_item['title'].replace('{','').replace('}',''),
+        md_file.write(u"- {0} *{1}* ({2}){3}{4} \n".format(bib_item['author'],bib_item['title'].replace('{','').replace('}',''),
                                                                                                                             bib_item['year'],
                                                                                                                             venue,
                                                                                                                             pages,
-                                                                                                                            pdf_link,
-                                                                                                                            bib_link).encode('UTF-8'))
+                                                                                                                        #    pdf_link,
+                                                                                                                         #   bib_link
+                                                                                                                         ).encode('UTF-8'))
