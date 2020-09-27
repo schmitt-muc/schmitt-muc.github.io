@@ -9,8 +9,12 @@ with open('Papers.bib') as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
 writer = BibTexWriter()
+
 with open('../_pages/publications_list.md', 'wb') as md_file:
-    for bib_item in bib_database.entries:
+    sorted_entries =  sorted(bib_database.entries,key=lambda x: x['year'], reverse=True)
+
+
+    for bib_item in sorted_entries:
         if 'booktitle' in bib_item:
             venue = u', {}'.format(bib_item['booktitle']).replace('{','').replace('}','')
         elif bib_item['journal']:
