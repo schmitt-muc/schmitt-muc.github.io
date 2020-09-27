@@ -17,6 +17,8 @@ with open('../_pages/publications_list.md', 'wb') as md_file:
     for bib_item in sorted_entries:
         if 'booktitle' in bib_item:
             venue = u', {}'.format(bib_item['booktitle']).replace('{','').replace('}','')
+        elif 'school' in bib_item:
+            venue =  u', {}'.format(bib_item['school']).replace('{','').replace('}','')
         elif bib_item['journal']:
             venue = u', {}'.format(bib_item['journal'])
         else:
