@@ -2617,7 +2617,7 @@ var bibtexify = (function($) {
         inproceedings: function(entryData) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
                 entryData.title + ". In <em>" + entryData.booktitle +
-               // ", pp. " + entryData.pages +
+                ", pp. " + entryData.pages +
                 ((entryData.address)?", " + entryData.address:"") + ".<\/em>";
         },
         incollection: function(entryData) {
@@ -2625,15 +2625,14 @@ var bibtexify = (function($) {
                 entryData.title + ". In " +
                 ((entryData.editor)?"" + this.authors2html(entryData.editor) + ", editor, ":"") +
                 "<em>" + entryData.booktitle +
-              //  ", pp. " + entryData.pages +
+                ", pp. " + entryData.pages +
                 ((entryData.address)?", " + entryData.address:"") + ".<\/em>";
         },
         article: function(entryData) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
-                entryData.title + ". <em>" + entryData.journal + (entryData.volume?", ":"") + entryData.volume +
-                ((entryData.number)?"(" + entryData.number + ")":"")+
-             (entryData.pages?(", " +"pp. " + entryData.pages):"" )+  "."+
-              //   "pp. " + entryData.pages + ". "+
+                entryData.title + ". <em>" + entryData.journal + ", " + entryData.volume +
+                ((entryData.number)?"(" + entryData.number + ")":"")+ ", " +
+                "pp. " + entryData.pages + ". " +
                 ((entryData.address)?entryData.address + ".":"") + "<\/em>";
         },
         misc: function(entryData) {
@@ -2662,7 +2661,7 @@ var bibtexify = (function($) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
                 entryData.chapter + " in <em>" + entryData.title + "<\/em>, " +
                 ((entryData.editor)?" Edited by " + this.authors2html(entryData.editor) + ", ":"") +
-           //     entryData.publisher + ", pp. " + entryData.pages + "" +
+                entryData.publisher + ", pp. " + entryData.pages + "" +
                 ((entryData.series)?", <em>" + entryData.series + "<\/em>":"") +
                 ((entryData.volume)?", Vol. " + entryData.volume + "":"") +
                 ((entryData.issn)?", ISBN: " + entryData.issn + "":"") +
@@ -2771,8 +2770,7 @@ var bibtexify = (function($) {
         };
         var table = this.$pubTable.dataTable($.extend({ 'aaData': bibentries,
                               'aaSorting': this.options.sorting,
-                              'aoColumns': [
-                                { "sTitle": "Year" , "bSortable": false, "bVisible":    false  },
+                              'aoColumns': [ { "sTitle": "Year" , "bSortable": false},
 
                                              { "sTitle": "Publication", "bSortable": false }],
                               'bPaginate': false
