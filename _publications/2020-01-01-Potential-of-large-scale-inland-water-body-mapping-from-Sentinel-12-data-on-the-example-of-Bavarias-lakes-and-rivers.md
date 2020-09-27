@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-01-01-Potential-of-large-scale-inland-water-body-mapping-from-Sentinel-12-data-on-the-example-of-Bavarias-lakes-and-rivers
 excerpt: 'in press'
 date: 2020-01-01
-venue: 'In the proceedings of Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers'
-citation: ' Michael Schmitt, &quot;Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers.&quot; In the proceedings of Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers, 2020.'
+venue: 'Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers'
+citation: ' Michael Schmitt, &quot;Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers.&quot; Potential of large-scale inland water body mapping from Sentinel-1/2 data on the example of Bavaria?s lakes and rivers, 2020.'
 ---
 in press
 

@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-01-01-InSAR-decorrelation-at-X-band-from-the-joint-TanDEM-XPAZ-constellation
 excerpt: 'in press'
 date: 2020-01-01
-venue: 'In the proceedings of InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation'
-citation: ' Francescopaolo Sica,  Sofie Bretzke,  A. Pulella,  J.L. Bueso-Bello,  M. Martone,  P. Prats-Iraola,  M.J. Gonzalez-Bonilla,  Michael Schmitt,  P. Rizzoli, &quot;InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation.&quot; In the proceedings of InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation, 2020.'
+venue: 'InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation'
+citation: ' Francescopaolo Sica,  Sofie Bretzke,  A. Pulella,  J.L. Bueso-Bello,  M. Martone,  P. Prats-Iraola,  M.J. Gonzalez-Bonilla,  Michael Schmitt,  P. Rizzoli, &quot;InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation.&quot; InSAR decorrelation at X band from the joint TanDEM-X/PAZ constellation, 2020.'
 ---
 in press
 
