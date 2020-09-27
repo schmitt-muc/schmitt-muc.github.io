@@ -1,0 +1,40 @@
+<!doctype html>
+</body>
+</html>
+<html>
+<head>
+  <title>Testing bibtex</title>
+  <link rel="stylesheet" href="bib-publication-list.css"/>
+</head>
+<body>
+<noscript>
+  <!-- bibtex source hidden by default, show it if JS disabled -->
+  <style>
+    #bibtex { display: block;}
+  </style>
+</noscript>
+
+<h2>Journal Papers</h2>
+<table id="pubTableJournals" class="display"></table>
+
+<h2>Double-blind peer-reviewed conference papers</h2>
+
+<h2>Single-blind Peer-reviewed conference papers</h2>
+<table id="pubTablePeer" class="display"></table>
+
+<h2>Other conference papers </h2>
+<table id="pubTableOther" class="display"></table>
+
+<h2>Theses and Patents</h2>
+<table id="pubTableTheses" class="display"></table>
+
+<script type="text/javascript" src="lib/jquery.min.js"></script>
+<script type="text/javascript" src="build/bib-list.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    bibtexify("bibs/Papers.bib", "pubTableJournals", {'visualization': false});
+    //	bibtexify("#bibtex", "pubTable", {'visualization': false});
+  });
+</script>
+</body>
+</html>
