@@ -36,3 +36,14 @@
   });
 </script>
 
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div style="display:flex;padding-bottom:20px;">
+      <div style="margin-right: 20px;">{{ post.date | default: "1900-01-01" | date: "%Y" }}</div>
+      <div>
+           <span   itemprop="headline">{{title}}</span>. <i>{{ post.venue }}</i>
+      </div>
+    </div>
+
+  </article>
+</div>
