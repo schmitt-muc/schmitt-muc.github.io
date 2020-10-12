@@ -18,9 +18,9 @@ author_profile: true
 ## Videos
 * "Open Data Impact Award 2020 - Gesamtfilm":  
  
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=HTjjRcqP4eI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="280" height="158" src="https://www.youtube-nocookie.com/embed/HTjjRcqP4eI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * "Glückwünsche aus dem All: TUM-Logo auf Satellitenbild":  
  
- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4h5tRs3TMvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="280" height="158" src="https://www.youtube-nocookie.com/embed/4h5tRs3TMvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
