@@ -9,11 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-### 17.08.2020
-SEN12MS has won the Open Data Impact Award by the Stifterverband, a German industry-sponsored organisation that seeks to address challenges in higher education, science and research! I am deeply honored and highly appreciate that an Earth observation dataset made the race. The prize money will be used to further work on EO datasets with a focus on Sentinel data, deep learning, and data fusion. 
+### 28.10.2020
+Today, our paper on "Detection of Undocumented Building Constructions from Official Geodata Using a Convolutional Neural Network" has been published in MDPI's Remote Sensing journal as part of the Special Issue Optical Remote Sensing Applications in Urban Areas. It's a very nice demonstration of applied deep learning in remote sensing for a real-world task. Check out the paper here: [Paper](https://www.mdpi.com/2072-4292/12/21/3537)
+
+### 07.10.2020
+SEN12MS has won the Open Data Impact Award by the Stifterverband, a German industry-sponsored organisation that seeks to address challenges in higher education, science and research! I am deeply honored and highly appreciate that an Earth observation dataset made the race. The prize money will be used to further work on EO datasets with a focus on Sentinel data, deep learning, and data fusion. More information about the award can be found on the homepage of the [innOsci initiative of the Stifterverband](https://www.stifterverband.org/innosci/open-data-impact-award).
+
+### 24.09.2020
+I have accepted the invitation to join the Editorial Board of [Frontiers in Remote Sensing](Deep Learning for Matching High-Resolution SAR and Optical Imagery) as an Associate Editor for the area Data Fusion and Assimilation. Let's see where this goes - the open review concept they have is certainly interesting!
+
+### 23.09.2020
+It's finally published (in ISPRS Journal) and paginated: Lloyd Hughes' "opus magnum", redefining the state-of-the-art in SAR-optical image matching. If you're interested in this topic, which is highly relevant for image co-registration, stereogrammetry etc., check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620302598)
+
+### 01.09.2020
+From this day on I am part of the Department of Geoinformatics of the Munich University of Applied Sciences as a full professor for applied geodesy and remote sensing. I am very happy and proud that I have received this chance and will do my best to hold up to expectations. My main task will be teaching remote sensing-related and basic classes (e.g. Mathematics). Besides, I will now finally start my own research group on remote sensing, Earth observation, data fusion and machine learning applied to these fields. Really looking forward to this! 
+
+### 24.08.2020
+Today, Lloyd Hughes defended his PhD thesis on "Deep Learning for Matching High-Resolution SAR and Optical Imagery". He is the first PhD candidate for whom I served as main supervisor and first examiner. Thus, his great and innovative contribution to this non-trival problem makes me particularly proud. Congratulations, Dr. Hughes! 
 
 ### 27.07.2020
-Today, Chunping Qiu defended her PhD thesis on „Deep Learning for Multi-Scale Mapping of Urban Land Cover from Space“ - and has her daily supervisor, I was part of the examination comittee. Chunping really did an awesome job, has published numerous papers and contributed to a big leap forward in urban mapping with modern remote sensing data and deep learning-based anylsis techniques. Congratulations, Dr. Qiu!
+Today, Chunping Qiu defended her PhD thesis on „Deep Learning for Multi-Scale Mapping of Urban Land Cover from Space“ - and as her daily supervisor, I was part of the examination comittee. Chunping really did an awesome job, has published numerous papers and contributed to a big leap forward in urban mapping with modern remote sensing data and deep learning-based anylsis techniques. Congratulations, Dr. Qiu!
 
 ### 02.07.2020
 I am extremely happy to finally announce the publication of our pioneering paper on cloud-removal from Sentinel-2 imagery, called "Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion". Very unfortunately, the journal publication process consumed quite some time, so that other groups have published similar approaches in the meantime. The uniqueness of our work is that we have trained and tested on globally sampled data with spatially completely disjunct training and test sets. So, if you're interested in a study paving the way for a generically applicable method for the declouding of Sentinel-2 imagery, check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
