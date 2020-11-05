@@ -15,6 +15,11 @@ Today, our paper on "Detection of Undocumented Building Constructions from Offic
 ### 07.10.2020
 SEN12MS has won the Open Data Impact Award by the Stifterverband, a German industry-sponsored organisation that seeks to address challenges in higher education, science and research! I am deeply honored and highly appreciate that an Earth observation dataset made the race. The prize money will be used to further work on EO datasets with a focus on Sentinel data, deep learning, and data fusion. More information about the award can be found on the homepage of the [innOsci initiative of the Stifterverband](https://www.stifterverband.org/innosci/open-data-impact-award).
 
+### 02.10.2020
+Another paper on cloud removal from optical satellite images has been published online ("early access") today. This time, it's based on a CycleGAN architecture. And the best thing is, it comes with the open access multi-sensor cloud removal dataset SEN12MS-CR, which is now finally out.   
+Check out the paper here: [Paper](https://ieeexplore.ieee.org/document/9211498)   
+Download the dataset here: [SEN12MS-CR dataset](https://mediatum.ub.tum.de/1459253?show_id=1554803)
+
 ### 24.09.2020
 I have accepted the invitation to join the Editorial Board of [Frontiers in Remote Sensing](Deep Learning for Matching High-Resolution SAR and Optical Imagery) as an Associate Editor for the area Data Fusion and Assimilation. Let's see where this goes - the open review concept they have is certainly interesting!
 
