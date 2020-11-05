@@ -21,7 +21,7 @@ Check out the paper here: [Paper](https://ieeexplore.ieee.org/document/9211498)
 Download the dataset here: [SEN12MS-CR dataset](https://mediatum.ub.tum.de/1459253?show_id=1554803)
 
 ### 24.09.2020
-I have accepted the invitation to join the Editorial Board of [Frontiers in Remote Sensing](Deep Learning for Matching High-Resolution SAR and Optical Imagery) as an Associate Editor for the area Data Fusion and Assimilation. Let's see where this goes - the open review concept they have is certainly interesting!
+I have accepted the invitation to join the Editorial Board of [Frontiers in Remote Sensing](https://www.frontiersin.org/journals/remote-sensing) as an Associate Editor for the area Data Fusion and Assimilation. Let's see where this goes - the open review concept they have is certainly interesting!
 
 ### 23.09.2020
 It's finally published (in ISPRS Journal) and paginated: Lloyd Hughes' "opus magnum", redefining the state-of-the-art in SAR-optical image matching. If you're interested in this topic, which is highly relevant for image co-registration, stereogrammetry etc., check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620302598)
