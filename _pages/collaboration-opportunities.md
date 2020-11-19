@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collaboration Opportunities"
-permalink: /collaboration/
+permalink: /collaboration-opportunities/
 author_profile: true
 ---
 
