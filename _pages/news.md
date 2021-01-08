@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+### 24.11.2020
+Multi-task learning has been shown to be a promising strategy if models for related tasks can be trained jointly for mutual benefit. In our paper on "Multitask Learning for Human Settlement Extent Regression and Local Climate Zone Classification", which is a nice joint venture of machine learning and remote sensing expertise, we have investigated whether the two tasks of human settlement extent prediction and local climate zone classification can be improved with multi-task learning. The paper is available in an open access manner here: [Paper](https://ieeexplore.ieee.org/document/9269372)
+
 ### 28.10.2020
 Today, our paper on "Detection of Undocumented Building Constructions from Official Geodata Using a Convolutional Neural Network" has been published in MDPI's Remote Sensing journal as part of the Special Issue Optical Remote Sensing Applications in Urban Areas. It's a very nice demonstration of applied deep learning in remote sensing for a real-world task. Check out the paper here: [Paper](https://www.mdpi.com/2072-4292/12/21/3537)
 
