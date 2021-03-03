@@ -1,6 +1,6 @@
 ---
 title: "DESTSAM (2021-2023)"
-excerpt: "Dense Satellite Time Series for Agricultural Monitoring<br/><img src='/images/DESTSAM.png' height='200'>"
+excerpt: "Dense Satellite Time Series for Agricultural Monitoring<br/><img src='/images/DESTSAM.png' height='300'>"
 collection: portfolio
 ---
 
