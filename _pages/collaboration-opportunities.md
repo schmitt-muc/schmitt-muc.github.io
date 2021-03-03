@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Open Jobs
-Soon, there will be openings for two full-time positions at the intersection of deep learning and remote sensing. Information will be posted when available.
+Check back for future updates! There are open positions for research staff every now and then.
 
 ## Students
 If you are interested in doing your Bachelor's or Master's thesis under my supervision, no matter whether at Munich University of Applied Sciences (MUAS) or Technical University of Munich (TUM), please send me a message. I offer both internal project topics in line with my research agenda, as well as topics co-supervised by external partners (DLR, industry). Thematically, your interest should fall under the umbrella of methodical or applied remote sensing, geospatial data fusion, or geospatial data science.  
