@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+### 02.03.2021
+I am more than happy to announce that our paper on cloud-removal from Sentinel-2 imagery, called "Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion" was selected as the best paper published in 2020 (volumes 159-170) in the ISPRS Journal of Photogrammetry and Remote Sensing. With a recent impact factor of 7.3, the ISPRS Journal is among the most prestigious journals in the field of remote sensing. If you haven't done so already, check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
+
+### 01.03.2021
+Today, the DESTAM project started. DESTSAM stands for "DEnse Satellite Time Series for Agricultural Monitoring" and is a joint endeavour of my lab and the Munich-based company [Remote Sensing Solutions GmbH](www.rssgmbh.de). In the project, which is funded by the German Federal Ministry for Economic Affairs and Energy (BMWi), we will develop solutions for a densification of optical satellite image time series based on cutting-edge deep learning and data fusion techniques. The densified time series will then be used for the monitoring of agricultural areas, especially in developing countries to support food security. Stay tuned for interesting results!
+
 ### 24.11.2020
 Multi-task learning has been shown to be a promising strategy if models for related tasks can be trained jointly for mutual benefit. In our paper on "Multitask Learning for Human Settlement Extent Regression and Local Climate Zone Classification", which is a nice joint venture of machine learning and remote sensing expertise, we have investigated whether the two tasks of human settlement extent prediction and local climate zone classification can be improved with multi-task learning. The paper is available in an open access manner here: [Paper](https://ieeexplore.ieee.org/document/9269372)
 
