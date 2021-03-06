@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+### 05.03.2021
+Another new paper: "Global Land Cover Mapping with Weak Supervision: Outcome of the 2020 IEEE GRSS Data Fusion Contest", published in IEEE JSTARS, summarizes the results of the last Data Fusion Contest I had the pleasure to co-organize. It contains a couple of interesting solutions to the problem of weakly supervised machine learning for large-scale land cover classification. As most of the time, the paper is available via open access: [Paper](https://ieeexplore.ieee.org/document/9369830)
+
 ### 02.03.2021
 I am more than happy to announce that our paper on cloud-removal from Sentinel-2 imagery, called "Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion" was selected as the best paper published in 2020 (volumes 159-170) in the ISPRS Journal of Photogrammetry and Remote Sensing. With a recent impact factor of 7.3, the ISPRS Journal is among the most prestigious journals in the field of remote sensing. If you haven't done so already, check out the paper here: [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
 
