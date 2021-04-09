@@ -3,6 +3,10 @@ I try to keep my publication list as recent as possible on my [Google Scholar pr
 Below, you find a manually curated list, which is sorted by publication type and date.
 
 ## Peer-reviewed Journal Papers 
+- Robinson C, Malkin K, Jojic N, Chen H, Qin R, Xiao C, Schmitt M, Ghamisi P, Hänsch R, Yokoya N (2021) Global land cover mapping with weak supervision: Outcome of the 2020 IEEE GRSS Data Fusion Contest. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing: in press
+- Baier G, Deschemps A, Schmitt M, Yokoya N (2021) Synthesizing optical and SAR imagery from land cover maps and auxiliary raster data. IEEE Transactions on Geoscience and Remote Sensing: in press
+- Ma L, Schmitt M, Zhu XX (2020) Uncertainty analysis of object-based land cover classification using time series of Sentinel-2 data. Remote Sensing 12 (22): 3798
+- Qiu C, Liebel L, Hughes LH, Schmitt M, Körner M, Zhu XX (2020) Multitask learning for human settlement extent regression and local climate zone classification. IEEE Geoscience and Remote Sensing Letters: in press
 - Li Q, Shi Y, Auer S, Roschlaub R, Möst K, Schmitt M, Glock C, Zhu XX (2020) Detection of undocumented building constructions from official geodata using a convolutional neural network. Remote Sensing 12 (21): 3537
 - Yokoya N, Ghamisi P, Hänsch R, Schmitt M (2021) Report on the 2020 IEEE GRSS Data Fusion Contest - Global Land Cover Mapping with Weak Supervision. IEEE Geoscience and Remote Sensing Magazine: in press
 - Ebel P, Meraner A, Schmitt M, Zhu X (2020) Multi-sensor data fusion for cloud removal in global and all-season Sentinel-2 imagery. IEEE Transactions on Geoscience and Remote Sensing: in press
@@ -75,6 +79,8 @@ Hughes LH, Marcos D, Lobry S, Tuia D (2020) A deep learning framework for sparse
 - Schmitt M, Stilla U (2011) Fusion of airborne multi-aspect InSAR data by simultaneous backward geocoding. In: Proceedings of Joint Urban Remote Sensing Event (JURSE 2011), Munich: 53-56
 
 ## Other Conference Papers (with Abstract-based review)
+- Ebel P, Schmitt M, Zhu X (2020) Cloud removal in unpaired Sentinel-2 imagery using Cycle-Consistent GAN and SAR-optical data fusion. In: Proceedings of IEEE Geoscience and Remote Sensing Symposium: 2065-2068
+- Gawlikowski J, Schmitt M, Kruspe A, Zhu X (2020) On the fusion strategies of Sentinel-1 and Sentinel-2 data for local climate zone classification. In: Proceedings of IEEE Geoscience and Remote Sensing Symposium: 2081-2084
 - Hughes L, Merkle N, Bürgmann T, Auer S, Schmitt M (2019) Deep learning for SAR-optical image matching. In: Proceedings of IEEE Geoscience and Remote Sensing Symposium (IGARSS 2019): 4877-4880
 - Qiu C, Schmitt M, Zhu X (2019) Fusing multi-seasonal Sentinel-2 images with residual convolutional neural networks for LCZ-derived uran land cover classification. In: Proceedings of IEEE Geoscience and Remote Sensing Symposium (IGARSS 2019): 5037-5040
 - Qiu C, Schmitt M, Ghamisi P, Mou L, Zhu X (2018) Feature importance analysis of Sentinel-2 imagery for large-scale local climate zone classification. Proceedings of IEEE Geoscience and Remote Sensing Symposium: 4681-4684
