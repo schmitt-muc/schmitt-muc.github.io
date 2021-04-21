@@ -11,6 +11,7 @@ redirect_from:
 
 ### 16.04.2021
 Are you interested in simulating remote sensing data (optical or SAR), e.g. for change detection purposes or to create auxiliary training data for deep learning tasks? Then check out our new paper "Synthesizing Optical and SAR Imagery From Land Cover Maps and Auxiliary Raster Data", which was published in IEEE Transactions on Geoscience and Remote Sensing a couple of days ago: [Paper](https://ieeexplore.ieee.org/document/9406194)
+
 Thanks to the team of the Geoinformatics Unit at the RIKEN Center for Advanced Intelligence Project (AIP), Gerald Baier, Antonin Deschemps and Naoto Yokoya, who invited me to collaborate on that project.
 
 ### 05.03.2021
