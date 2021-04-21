@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+### 16.04.2021
+Are you interested in simulating remote sensing data (optical or SAR), e.g. for change detection purposes or to create auxiliary training data for deep learning tasks? Then check out our new paper "Synthesizing Optical and SAR Imagery From Land Cover Maps and Auxiliary Raster Data", which was published in IEEE Transactions on Geoscience and Remote Sensing a couple of days ago: [Paper](https://ieeexplore.ieee.org/document/9406194)
+Thanks to the team of the Geoinformatics Unit at the RIKEN Center for Advanced Intelligence Project (AIP), Gerald Baier, Antonin Deschemps and Naoto Yokoya, who invited me to collaborate on that project.
+
 ### 05.03.2021
 Another new paper: "Global Land Cover Mapping with Weak Supervision: Outcome of the 2020 IEEE GRSS Data Fusion Contest", published in IEEE JSTARS, summarizes the results of the last Data Fusion Contest I had the pleasure to co-organize. It contains a couple of interesting solutions to the problem of weakly supervised machine learning for large-scale land cover classification. As most of the time, the paper is available via open access: [Paper](https://ieeexplore.ieee.org/document/9369830)
 
