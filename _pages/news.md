@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+### 07.07.2021
+In the frame of ISPRS Congress 2021, two papers have been accepted for publication in the full-paper peer-reviewed ISPRS Annals:
+- "Remote Sensing Image Classification with the SEN12MS Dataset" provides baseline codes and benchmark results for using the SEN12MS dataset not only for weakly supervised semantic segmentation but also for classification tasks: [Paper](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2021/101/2021/)
+- "Jungle-Net: Using Explainable Machine Learning to Gain New Insights into the Appearance of Wilderness in Satellite Imagery" uses explainable ML techniques to gain a better understanding about how deep neural networks perceive wilderness as wilderness: [Paper](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2021/317/2021/)
+
+### 30.06.2021
+A long-standing cooperation is finally confirmed by a joint publication: "Wildfire Detection from Multi-sensor Satellite Imagery Using Deep Semantic Segmentation", published in IEEE JSTARS, shows a comprehensive investigation of how publicly available satellite imagery can be analyzed with state-of-the-art deep semantic segmentation approaches for the automatic detection of wildfires. Special emphasis is put on the questions how one can use publicly available fire data to train a deep neural network, and what benefit is provided by a multi-sensor data fusion. Find the open access paper hier: [Paper](https://ieeexplore.ieee.org/document/9468971)
+
+Many thanks go to my co-authors from OroraTech, who took the time writing this paper together with me.
+
 ### 16.04.2021
 Are you interested in simulating remote sensing data (optical or SAR), e.g. for change detection purposes or to create auxiliary training data for deep learning tasks? Then check out our new paper "Synthesizing Optical and SAR Imagery From Land Cover Maps and Auxiliary Raster Data", which was published in IEEE Transactions on Geoscience and Remote Sensing a couple of days ago: [Paper](https://ieeexplore.ieee.org/document/9406194)
 
